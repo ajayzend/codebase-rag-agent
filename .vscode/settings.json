@@ -1,0 +1,30 @@
+{
+    "editor.renderWhitespace": "all",
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Umbra",
+    "editor.fontFamily": "FiraCode-Retina, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "workbench.editor.enablePreview": true,
+    "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 150,
+    "todo-tree.highlights.defaultHighlight": {
+      "icon": "alert",
+      "type": "text",
+      "foreground": "red",
+      "background": "white",
+      "opacity": 50,
+      "iconColour": "blue"
+  },
+  "todo-tree.highlights.customHighlight": {
+      "TODO": {
+          "icon": "check",
+          "type": "line"
+      },
+      "FIXME": {
+          "foreground": "black",
+          "iconColour": "yellow",
+          "gutterIcon": true
+      }
+  }
+  }

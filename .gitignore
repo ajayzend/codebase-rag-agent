@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.env.local
+# keep .env.example committed — it's the template
+*.local.json
+*.log
+.DS_Store
